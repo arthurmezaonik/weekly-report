@@ -57,7 +57,7 @@
                 <artifactId>azure-functions-maven-plugin</artifactId>
                 <version>1.17.0</version>
                 <configuration>
-                    <resourceGroup>weekly-report-rg</resourceGroup>
+                    <resourceGroup>RG-tech-challenge-4</resourceGroup>
                     <appName>weekly-report-function</appName>
                     <runtime>
                         <os>linux</os>
